@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+}
+.startbtn{
+    background-color: rgb(25, 6, 6);
+    color: rgb(175, 192, 207);
+    margin-bottom: 500px;
+    margin-top: 250px;
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    border-radius: 30px;
+    
+    
+}
+h1{
+    color: red;
+}
+.mainDiv{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 2.5rem;
+}
+.mainDiv1{
+    display: flex;
+    justify-content: center;
+}
+.lightred{
+    background-color: rgb(117, 54, 29);
+    
+    
+}
+.lightgreen{
+    background-color: rgba(71, 117, 45, 0.961);
+    
+}
+.lightyellow{
+    background-color: rgb(189, 186, 54);
+}
+.lightblue{
+    background-color: rgb(33, 155, 179);
+}
+.flash{
+    background-color: rgb(6, 246, 166);
+}
+.userflash{
+    background-color: rgb(208, 197, 182);
+}
